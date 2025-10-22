@@ -1,0 +1,9 @@
+asammdf 
+pandas 
+numpy 
+scipy 
+scikit-learn 
+matplotlib 
+seaborn 
+fastf1 
+jupyterlab 
