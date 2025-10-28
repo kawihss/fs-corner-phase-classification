@@ -1,6 +1,7 @@
 __pycache__/ 
 .ipynb_checkpoints/ 
 *.mf4 
+*.mdf
 *.csv 
 *.h5 
 *.pkl 
